@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PerezD9
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Data Visualization with Tableau Specialization on Coursera
 - 💞️ I’m looking to collaborate on the things I don't know.
